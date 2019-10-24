@@ -1,1 +1,1 @@
-# STWC-Pr-ctica-1-SASS
+# STWC-Practica-1-SASS
